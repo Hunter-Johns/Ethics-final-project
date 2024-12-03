@@ -1,0 +1,32 @@
+Roadmap
+
+I would prefer to work on one of the following topics for the final:
+
+The fundamental nature of digital technology
+
+Privacy issues
+
+Ethical frameworks (My favorite topic of the semester)
+
+Gatekeeping in technology / The open source movement
+
+Encryption (probably would make the most fun game)
+
+
+Selected topic: ""
+
+
+Once decided on a topic, we can decide on Format between
+
+A 'digital museum' which allows the user to choose from broader topics and dive deeper into them.  You might want to include images and sound effects. (no)
+
+A 'choose your own adventure' game.  Put the user in a situation where she experiences ethical quandaries and explore the consequences of various choices. (Yes)
+
+'Fix the problem:'  Another adventure style where we pick a problem and let the user try various ways to solve the problem. (Also Yes)
+
+
+Selected format: ""
+
+
+With a topic and a format selected, roadmap:
+
