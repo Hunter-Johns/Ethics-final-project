@@ -12,83 +12,139 @@ Ethics Final Project
 }
 
 
-:: \ Result {"position":"525,850","size":"100,100"}
-The caeser cipher returns "Fire this decryption guy, he sucks" what an odd thing to send
+:: \ Caesar {"position":"425,625","size":"100,100"}
+The Caesar cipher calibration today is set to 6, Caesar ciphers work by shifting the characters of the alphabet over by an X amount
 
-[[Look's decrpyted to me, send it to the big man -> layed off]]
+[[put the encrypted text into the Caesar cypher -> Result]]
+
+
+:: \ Caesar encode {"position":"650,1400","size":"100,100"}
+Yeah! Caesar wouldn't backstab you and tell your boss to fire you! That was the other guy!
+
+Now, quickly, the calibration key is 6, what's the resulting message?? YOUR BOSS IS COMING!
+
+<img src="https://thumbs.dreamstime.com/b/alphabet-letters-wooden-scrabble-pieces-isolated-white-50321171.jpg"alt="alphabet"/>
+
+
+[[Euax giiuatz ngy hkkt ngiqkj. -> Step 2 Correct]]
+
+[[Dtzw fhhtzsy mfx gjjs mfhpji. -> Step 2 Wrong]]
+
+[[Fvby hjjvbua ohz illu ohjrlk. -> Step 2 Wrong]] 
+
+
+:: \ Result {"position":"425,775","size":"100,100"}
+The Caesar cipher returns "Fire this decryption guy, he sucks"... what an odd thing to send
+
+[[Look's decrypted to me, send it to the big man -> layed off]]
 [[My College Ethics class be damned, I cant lose this job!]]
 
 
-:: \ Sub Cypher {"position":"400,600","size":"100,100"}
-The playfair cipher key today is "Andy Harris", A playfair cipher works by including a keyword into a 5x5 box and swapping numbers into groups of 2
+:: \ Step 2 Correct {"position":"475,1575","size":"100,100"}
+Yeah... Yeah!
 
-[[ put the encrpyted text into the Andy Harris playfair cypher]]
+Now, part two...
+
+<img src="https://thumbs.dreamstime.com/b/alphabet-letters-wooden-scrabble-pieces-isolated-white-50321171.jpg"alt="alphabet"/>
+
+[[Ehox, Knllbt. ->Fired]] 
+
+[[Rubk, Xayyog. -> Win!]]
+
+[[Gjqz, Mpnndv. ->Fired]] 
+
+[[Love, Russia. ->Fired]]
 
 
-:: \ ceaser {"position":"525,725","size":"100,100"}
-The caeser cipher calibration today is set to 6, ceaser ciphers work by shifting the characters of the alphabet over by an X amount
+:: \ Step 2 Wrong {"position":"725,1675","size":"100,100"}
+Yeah... Yeah!
 
-[[put the encrypted text into the caeser cypher -> Result]]
+Now, part two...
+
+<img src="https://thumbs.dreamstime.com/b/alphabet-letters-wooden-scrabble-pieces-isolated-white-50321171.jpg"alt="alphabet"/>
+
+[[Ehox, Knllbt. ->Fired]] 
+
+[[Rubk, Xayyog. ->Fired]]
+
+[[Gjqz, Mpnndv. ->Fired]] 
+
+[[Love, Russia. ->Fired]]
 
 
-:: \ layed off {"position":"525,975","size":"100,100"}
-It's a tough economy out there, atleast you kept your moral compass
+:: \ Sub Cypher {"position":"150,650","size":"100,100"}
+The Playfair cipher key today is "Andy Harris", A Playfair cipher works by including a keyword into a 5x5 box and swapping numbers into groups of 2. You now have the text "LO XK ZN OY JK IX EV ZO UT MA NK YA IQ YJ"
+
+[[ put the encrypted text into the Andy Harris Playfair cypher]]
+
+
+:: \ Win! {"position":"450,1900","size":"100,100"}
+<img src= "https://media.cnn.com/api/v1/images/stellar/prod/161218182327-russia-hackers-who-are-they-todd-tsr-dnt-00010230.jpg?q=w_1920,h_1080,x_0,y_0,c_fill"alt=Breaking News>
+
+[[Game over ->Problem]] 
+
+
+:: \ layed off {"position":"475,950","size":"100,100"}
+It's a tough economy out there, at least you kept your moral compass
 
 [[Game over ->Problem]] 
 
 <img src="https://as2.ftcdn.net/v2/jpg/00/87/32/53/1000_F_87325349_56B62IGb1Hxhe1lWTez3Y5TLEa5RBcY7.jpg"alt="hobo stick"/>
 
 
-:: \ put the encrpyted text into the Andy Harris playfair cypher {"position":"400,725","size":"100,100"}
-The cypher reads "RMYUGKQVFB"
+:: \ put the encrypted text into the Andy Harris Playfair cypher {"position":"150,775","size":"100,100"}
+The cypher reads "FTQBVHQNFBUKUXMVQTURYFDHBOXQ"
 
-[[Look's decrpyted to me, send it to the big man ->Fired]]
-[[I dont think that's it ->Let's start ]]
+[[Look's decrypted to me, send it to the big man ->Fired]]
+[[I don't think that's it ->Let's start ]]
 
 
 
-:: Autokey {"position":"850,600","size":"100,100"}
+:: Autokey {"position":"650,625","size":"100,100"}
 The autokey cipher is an improvement of another substitution based cipher, the Vignere, which uses a sequence of shifts that apply differently to each character. Your key to this is: Chipper
 
 [[plug the encoded text into the cipher]]
 
 
-:: Falsefy the document {"position":"650,1100","size":"100,100"}
-Congratulations, You've kept your job! but what would proffesor Harris think. 
+:: Falsefy the document {"position":"650,1225","size":"100,100"}
+Now what to say... hmm... Oh! "Your account has been hacked." "Love, Russia." Works every time... But, now it's time to 'find' the encrypted version!
 
-[[Game Over->Problem]]
+You know a thing or two about Playfair, Caesar, and Autokey ciphers, but.. which one?
+
+[[The easy one-> Caesar encode]]
 
 
-:: Fired {"position":"675,725","size":"100,100"}
+
+:: Fired {"position":"275,1225","size":"100,100"}
 Unfortunately you suck at your job, and were swiftly fired for probably lying in your resume
 
 [[Game over ->Problem]]
 
 
-:: Let's start\  {"position":"675,600","size":"100,100"}
-You're first encypted messages has been relayed to your work station, it reads 
+:: Let's start\  {"position":"425,475","size":"100,100"}
+Your first encrypted messages has been relayed to your work station, it reads 
 "Loxk znoy jkixevzout mae, nk yaiqyj"
 
-[[Look's decrpyted to me, send it to the big man ->Fired]]
+[[Look's decrypted to me, send it to the big man ->Fired]]
 [[Try the Playfair cipher -> Sub Cypher]]
-[[Try the Subsition caeser cipher -> ceaser]]
+[[Try the Substitution Caesar cipher -> Caesar]]
 [[Try the Autokey cipher->Autokey]]
 
 
-:: My College Ethics class be damned, I cant lose this job! {"position":"650,975","size":"100,100"}
-Shit the pressure is on. 
+:: My College Ethics class be damned, I cant lose this job! {"position":"350,950","size":"100,100"}
+The pressure's on. You have a family of fifteen to feed, and you won't be able to afford to buy loaves of bread to cut into comedically thin slices if you can't keep this MINIMUM WAGE JOB
 
 [[Falsefy the document]]
 
 
-:: Problem {"position":"600,350","size":"100,100"}
+:: Problem {"position":"425,250","size":"100,100"}
 You work for a company that passes sensitive information through public channels, your job is to decrypt what comes in
 
 [[Let's start ]]
 
 
-:: plug the encoded text into the cipher {"position":"850,725","size":"100,100"}
-The Decoded text reads "Hpzt ilzu kmrgcgvpwc vyp, jl ajroj"
+:: plug the encoded text into the cipher {"position":"650,750","size":"100,100"}
+The Decoded text reads "jhpv kjxp cvnnvykmzg zfg, dy zujls"
 
-[[Look's decrpyted to me, send it to the big man ->Fired]]
-[[I dont think that's it ->Let's start ]]
+[[Look's decrypted to me, send it to the big man ->Fired]]
+[[I don't think that's it ->Let's start ]]
