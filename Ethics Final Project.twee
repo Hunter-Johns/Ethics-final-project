@@ -7,10 +7,88 @@ Ethics Final Project
   "ifid": "8D78F33B-D60E-4BD3-88DD-CC7E107CAACC",
   "format": "Harlowe",
   "format-version": "3.3.9",
-  "start": "Untitled Passage",
+  "start": "Problem",
   "zoom": 1
 }
 
 
-:: Untitled Passage {"position":"525,350","size":"100,100"}
-HeheheHa
+:: \ Result {"position":"525,850","size":"100,100"}
+The caeser cipher returns "Fire this decryption guy, he sucks" what an odd thing to send
+
+[[Look's decrpyted to me, send it to the big man -> layed off]]
+[[My College Ethics class be damned, I cant lose this job!]]
+
+
+:: \ Sub Cypher {"position":"400,600","size":"100,100"}
+The playfair cipher key today is "Andy Harris", A playfair cipher works by including a keyword into a 5x5 box and swapping numbers into groups of 2
+
+[[ put the encrpyted text into the Andy Harris playfair cypher]]
+
+
+:: \ ceaser {"position":"525,725","size":"100,100"}
+The caeser cipher calibration today is set to 6, ceaser ciphers work by shifting the characters of the alphabet over by an X amount
+
+[[put the encrypted text into the caeser cypher -> Result]]
+
+
+:: \ layed off {"position":"525,975","size":"100,100"}
+It's a tough economy out there, atleast you kept your moral compass
+
+[[Game over ->Problem]] 
+
+<img src="https://as2.ftcdn.net/v2/jpg/00/87/32/53/1000_F_87325349_56B62IGb1Hxhe1lWTez3Y5TLEa5RBcY7.jpg"alt="hobo stick"/>
+
+
+:: \ put the encrpyted text into the Andy Harris playfair cypher {"position":"400,725","size":"100,100"}
+The cypher reads "RMYUGKQVFB"
+
+[[Look's decrpyted to me, send it to the big man ->Fired]]
+[[I dont think that's it ->Let's start ]]
+
+
+
+:: Autokey {"position":"850,600","size":"100,100"}
+The autokey cipher is an improvement of another substitution based cipher, the Vignere, which uses a sequence of shifts that apply differently to each character. Your key to this is: Chipper
+
+[[plug the encoded text into the cipher]]
+
+
+:: Falsefy the document {"position":"650,1100","size":"100,100"}
+Congratulations, You've kept your job! but what would proffesor Harris think. 
+
+[[Game Over->Problem]]
+
+
+:: Fired {"position":"675,725","size":"100,100"}
+Unfortunately you suck at your job, and were swiftly fired for probably lying in your resume
+
+[[Game over ->Problem]]
+
+
+:: Let's start\  {"position":"675,600","size":"100,100"}
+You're first encypted messages has been relayed to your work station, it reads 
+"Loxk znoy jkixevzout mae, nk yaiqyj"
+
+[[Look's decrpyted to me, send it to the big man ->Fired]]
+[[Try the Playfair cipher -> Sub Cypher]]
+[[Try the Subsition caeser cipher -> ceaser]]
+[[Try the Autokey cipher->Autokey]]
+
+
+:: My College Ethics class be damned, I cant lose this job! {"position":"650,975","size":"100,100"}
+Shit the pressure is on. 
+
+[[Falsefy the document]]
+
+
+:: Problem {"position":"600,350","size":"100,100"}
+You work for a company that passes sensitive information through public channels, your job is to decrypt what comes in
+
+[[Let's start ]]
+
+
+:: plug the encoded text into the cipher {"position":"850,725","size":"100,100"}
+The Decoded text reads "Hpzt ilzu kmrgcgvpwc vyp, jl ajroj"
+
+[[Look's decrpyted to me, send it to the big man ->Fired]]
+[[I dont think that's it ->Let's start ]]
